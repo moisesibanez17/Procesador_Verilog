@@ -1,0 +1,21 @@
+# Compile of Adder.v was successful.
+# Compile of ALU.v was successful.
+# Compile of AluControl.v was successful.
+# Compile of ControlUnit.v was successful.
+# Compile of DataMemory.v was successful.
+# Compile of Ex_AddresCalc.v was successful.
+# Compile of fetch_tb.v was successful.
+# Compile of InstructionDecode.v was successful.
+# Compile of InstructionFetch.v was successful.
+# Compile of MInstuctions.v was successful.
+# Compile of Mux01_5Bits.v was successful.
+# Compile of Mux01_31_33.v was successful.
+# Compile of Mux01_31Bits.v was successful.
+# Compile of PC.v was successful.
+# Compile of ProjectTB.v was successful.
+# Compile of RegisterFile.v was successful.
+# Compile of ShiftLeft2.v was successful.
+# Compile of shiftLeft2J.v was successful.
+# Compile of SignExtend.v was successful.
+# Compile of WriteBack.v was successful.
+# 20 compiles, 0 failed with no errors.
